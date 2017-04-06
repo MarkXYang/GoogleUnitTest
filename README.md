@@ -1,0 +1,1 @@
+This is a demo of Google unit test code. It is based on https://www.codeproject.com/Articles/811934/Cplusplus-unit-test-start-guide-how-to-set-up-Goog . Please refer to it for detail steps and more information. 
